@@ -1,0 +1,73 @@
+@charset "utf-8";
+body{
+	background:#C1B7B7;
+}
+p{
+	font-family:"Comic sana KS";
+}
+h1{
+	color:red;
+}
+h2{
+	color:red;
+}
+h3{
+	color:red;
+}
+h4{
+	color:red;
+}
+h5{
+	color:red;
+}
+margin{
+	
+}
+p{
+	padding-left:50px;
+}
+p{
+	padding-right:50px;
+}
+p{
+	margin-left::50px;
+}
+h2{
+	padding-left:50px;
+}
+h2{
+	padding-right:50px;
+}
+h2{
+	margin-left::50px;
+}
+
+h3{
+	padding-left:50px;
+}
+h3{
+	padding-right:50px;
+}
+h3{
+	margin-left::50px;
+}
+
+h4{
+	padding-left:50px;
+}
+h4{
+	padding-right:50px;
+}
+h4{
+	margin-left::50px;
+}
+
+h5{
+	padding-left:50px;
+}
+h5{
+	padding-right:50px;
+}
+h5{
+	margin-left::50px;
+}
